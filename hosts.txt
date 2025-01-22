@@ -1,6 +1,3 @@
-127.0.0.1       localhost
-::1             ip6-localhost
-# OpenAI  
 94.131.119.85 ab.chatgpt.com  
 94.131.119.85 android.chat.openai.com  
 94.131.119.85 auth.openai.com  
@@ -12,8 +9,6 @@
 94.131.119.85 platform.openai.com  
 94.131.119.85 tcr9i.chat.openai.com  
 94.131.119.85 webrtc.chatgpt.com  
-
-# Google  
 94.131.119.85 aistudio.google.com  
 94.131.119.85 aitestkitchen.withgoogle.com  
 94.131.119.85 alkalimakersuite-pa.clients6.google.com  
@@ -36,8 +31,6 @@
 94.131.119.85 taskassist-pa.googleapis.com  
 94.131.119.85 update.googleapis.com  
 94.131.119.85 www.googleapis.com  
-
-# Copilot / Bing  
 94.131.119.85 bing.com  
 94.131.119.85 bing.net  
 94.131.119.85 bingapis.com  
@@ -69,8 +62,6 @@
 94.131.119.85 prod-japaneast.access-point.cloudmessaging.edge.microsoft.com  
 94.131.119.85 swiftkey.com  
 94.131.119.85 data.swiftkey.com  
-
-# Other  
 94.131.119.85 claude.ai  
 94.131.119.85 www.notion.so
 94.131.119.85 ai-chat.bsg.brave.com
